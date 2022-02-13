@@ -1,0 +1,25 @@
+{
+  "name": "meddlers-client-js",
+  "version": "0.0.1",
+  "description": "meddlers island client",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boowangoo/meddlers-client-js.git"
+  },
+  "keywords": [
+    "boardgame",
+    "meddlers",
+    "island",
+    "client"
+  ],
+  "author": "boowangoo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boowangoo/meddlers-client-js/issues"
+  },
+  "homepage": "https://github.com/boowangoo/meddlers-client-js#readme"
+}
